@@ -3,6 +3,6 @@ _GIF based lifeform_
 
 ## find me
 
-* [elcuervo.net](elcuervo.net)
-* [keybase.io/elcuervo](keybase.io/elcuervo)
-* [twitter.com/cuerbot](twitter.com/cuerbot)
+* [elcuervo.net](https://elcuervo.net)
+* [keybase.io/elcuervo](https://keybase.io/elcuervo)
+* [twitter.com/cuerbot](https://twitter.com/cuerbot)
